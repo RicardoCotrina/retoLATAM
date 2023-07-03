@@ -1,0 +1,27 @@
+{
+  "name": "retolatam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicardoCotrina/retoLATAM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RicardoCotrina/retoLATAM/issues"
+  },
+  "homepage": "https://github.com/RicardoCotrina/retoLATAM#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
